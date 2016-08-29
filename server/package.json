@@ -1,0 +1,15 @@
+{
+    "name": "KrishChat",
+    "version": "1.0.0",
+    "description": "quick chat",
+    "main": "socket-server.js",
+    "scripts": {
+        "test" : "No tests found"
+    },
+    "author": "Krish Venkat",
+    "license" : "",
+    "dependencies" : {
+        "socket.io": "*",
+        "express" : "*"
+    }
+}
